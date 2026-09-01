@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Credentials and runtime authentication data
+common/test_config.ini
+.axcoin-token-cache.json
+.env
+.env.*
+!.env.example
+
+# Runtime output and local backups
+log/
+*.log
+backup_*/
+receipts/
+

@@ -1,0 +1,6 @@
+requests>=2.31,<3
+jsonpath-ng>=1.6,<2
+
+# 仅 Excel 导出需要：
+# pandas>=2,<3
+# openpyxl>=3.1,<4
